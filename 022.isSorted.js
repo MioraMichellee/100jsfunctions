@@ -5,7 +5,7 @@ function isSorted(numbers) {
         return true;
     }
     else{
-        return false
+        return false 
     }
 }
 
